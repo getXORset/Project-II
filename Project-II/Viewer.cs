@@ -15,7 +15,7 @@ namespace Project_II
             this.itemslist = itemslist;
         }
 
-        //The method showItemsList() show the itemslist in the console
+        //The method showItemsList() shows the itemslist in the console
         internal void showItemslist (List<Item> itemslist)
         {
             int number = 1; //The variable is used to index the transactions in the transactions list           
